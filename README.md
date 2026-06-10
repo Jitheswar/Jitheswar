@@ -34,6 +34,9 @@ B.Tech CSE · KL University Hyderabad, Class of 2028 · ML + systems focus
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jitheswar&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Jitheswar-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Jitheswar/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Jitheswar?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Jitheswar/)
 
 ---
 

@@ -37,4 +37,4 @@ B.Tech CSE · KL University Hyderabad, Class of 2028 · ML + systems focus
 
 ---
 
-**LinkedIn** · [linkedin.com/in/jitheswar](https://linkedin.com/in/jitheswar) &nbsp;|&nbsp; **Location** · Hyderabad, India
+**LinkedIn** · [linkedin.com/in/jitheswar-sai-chethan-chilukuri-03943a345](https://www.linkedin.com/in/jitheswar-sai-chethan-chilukuri-03943a345/) &nbsp;|&nbsp; **Location** · Hyderabad, India

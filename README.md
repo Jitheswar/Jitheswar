@@ -7,10 +7,10 @@ B.Tech CSE · KL University Hyderabad, Class of 2028 · ML + systems focus
 ## Projects
 
 | Project | What it does | Stack |
-|---------|-------------|-------|
+|-----------|--------------|-------|
 | [NIDS](https://github.com/Jitheswar/NIDS) | Zero-trust network intrusion detection — mTLS, Keycloak SSO, AI anomaly scoring, hash-chained audit logs | Python · FastAPI · Docker · Keycloak |
-| [pneumonia-detection](https://github.com/Jitheswar/pneumonia-detection) | Chest X-ray classifier — EfficientNet-B3, 88.3% accuracy, 0.885 AUC, Grad-CAM, AWS ECS | PyTorch · FastAPI · Next.js |
-| [lung-fibrosis](https://github.com/Jitheswar/lung-fibrosis) | Lung fibrosis detector on NIH ChestX-ray14 — fp16 inference, Grad-CAM, PDF reports | PyTorch · FastAPI · Next.js |
+| [Ayur-Ai](https://github.com/Jitheswar/Ayur-Ai) | Ayurvedic leaf classifier — ResNet18 CNN, 98.6% CV acc, TF-IDF herb retriever, Streamlit web app | PyTorch · Scikit-learn · Streamlit |
+| [local-ai-companion](https://github.com/Jitheswar/local-ai-companion) | Local AI companion — streaming chat, emotion-aware personality, hybrid vector+BM25 memory, TTS/STT | Python · FastAPI · Ollama · ChromaDB · React |
 | [ruralAi](https://github.com/Jitheswar/ruralAi) | Rural health AI platform — Gemini symptom checker, prescription OCR, offline-first mobile app | TypeScript · Next.js · React Native · FastAPI |
 | [FSAD-Hackathon](https://github.com/Jitheswar/FSAD-Hackathon) | Resume screening tool — BM25 ranking, Apache Tika parsing, RBAC, Spring Boot backend | Java · Spring Boot · React · Vite |
 | [API-Pulse](https://github.com/Jitheswar/API-Pulse) | API testing and monitoring dashboard — analytics, threshold alerts, JWT auth, Docker | Python · Flask · PostgreSQL · Redis |

@@ -1,8 +1,8 @@
 # Jitheswar
 
-B.Tech CSE at KL University Hyderabad, class of 2028. I work on ML and systems, and I like results that someone else can check.
+B.Tech CSE at KL University Hyderabad, class of 2028. I work on ML and systems, and I like results that someone else can check. Open to internships and research work.
 
-[Email](mailto:jitheswaredu@gmail.com) · [LinkedIn](https://linkedin.com/in/jitheswar) · [LeetCode](https://leetcode.com/u/Jitheswar/)
+[Portfolio](https://jitheswar.github.io) · [Email](mailto:jitheswaredu@gmail.com) · [LinkedIn](https://linkedin.com/in/jitheswar) · [LeetCode](https://leetcode.com/u/Jitheswar/)
 
 ## Work
 
@@ -18,19 +18,22 @@ B.Tech CSE at KL University Hyderabad, class of 2028. I work on ML and systems, 
 **Also built**
 
 - **[RSNA knee MRI](https://github.com/Jitheswar/RSNA)**: our team's entry for the RSNA 2026 Kaggle competition. 12 findings, 4,407 studies, only 58 reference labels. Public leaderboard AUC 0.958, blended with two credited public pipelines.
-- **[onepass-zsc](https://github.com/Jitheswar/onepass-zsc)**: zero-shot text classification that scores every label in one forward pass, with calibrated probabilities. Team project.
+- **[onepass-zsc](https://github.com/Jitheswar/onepass-zsc)**: zero-shot text classification that scores every label in one forward pass, with calibrated probabilities. 0.682 mean accuracy on 13 unseen datasets, against 0.660 for the same backbone run once per label. Team project.
 - **[AIDevOps](https://github.com/Jitheswar/aidevops)**: ranks vulnerabilities in a live Kubernetes cluster by how exposed each workload really is. Team project.
 
 ## Open source
 
 - **Zephyr RTOS**: two merged fixes, in the DNS resolver ([#123434](https://github.com/zephyrproject-rtos/zephyr/pull/123434)) and the CMake stack-protector setup ([#123198](https://github.com/zephyrproject-rtos/zephyr/pull/123198)).
-- **Omarchy**: open PRs for the Dell G15 touchpad at boot ([#17323](https://github.com/omacom/omarchy/pull/17323)) and shell-test PATH handling ([#17324](https://github.com/omacom/omarchy/pull/17324)).
+- **Omarchy**: three open PRs: Bend as a development environment ([#19250](https://github.com/omacom/omarchy/pull/19250)), the Dell G15 touchpad binding at boot ([#17323](https://github.com/omacom/omarchy/pull/17323)), and shell tests that ran the installed commands instead of the checkout's ([#17324](https://github.com/omacom/omarchy/pull/17324)).
 - **gpu-unlock**: open PR adding the laptop RTX 3050 6GB ([#327](https://github.com/Zagitta/gpu-unlock/pull/327)).
 
 ## On my own machine
 
-Two Omarchy themes I run every day: **[Liquid Glass](https://github.com/Jitheswar/omarchy-liquid-glass-theme)**, where the bar and windows are glass that takes its color from the wallpaper, and **[Sadie My Love](https://github.com/Jitheswar/sadie-my-love)**, a copper and oxblood palette that follows the wallpaper.
+Two themes I made for Omarchy, the Linux setup I use every day:
+
+- **[Sadie My Love](https://github.com/Jitheswar/sadie-my-love)**: a copper and oxblood palette that follows the wallpaper.
+- **[Chrysos Heirs](https://github.com/Jitheswar/chrysos-heirs)**: a Honkai: Star Rail theme with fourteen palettes, one per heir. Change the wallpaper and the terminal, borders, bar and lock screen follow it.
 
 ## How I work
 
-I'd rather publish a failed result than a number nobody can reproduce. My projects keep a written record of what was tried and dropped, not just what shipped. [`Ayur-Ai/experiments/journal.md`](https://github.com/Jitheswar/Ayur-Ai/blob/main/experiments/journal.md) logs three optimizations that didn't work, and `sih26038` records the goals it didn't meet.
+I'd rather publish a failed result than a number nobody can reproduce. My projects keep a written record of what was tried and dropped, not just what shipped. [`Ayur-Ai/experiments/journal.md`](https://github.com/Jitheswar/Ayur-Ai/blob/main/experiments/journal.md) logs all 14 iterations, including the 8 it reverted or rejected, and [`sih26038`](https://github.com/Jitheswar/sih26038#where-it-stands) explains why it turned down a setting that handled more cases on its own: it sent two referable patients home.
